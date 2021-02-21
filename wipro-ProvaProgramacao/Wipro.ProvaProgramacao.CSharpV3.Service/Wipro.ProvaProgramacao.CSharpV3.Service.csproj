@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wipro.ProvaProgramacao.CSharpV3.Domain\Wipro.ProvaProgramacao.CSharpV3.Domain.csproj" />
+    <ProjectReference Include="..\Wipro.ProvaProgramacao.CSharpV3.Infra\Wipro.ProvaProgramacao.CSharpV3.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
